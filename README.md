@@ -37,7 +37,7 @@ PyPackager is a user-friendly graphical interface that simplifies the process of
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/PyPackager.git
+   git clone https://github.com/LMLK-Seal/PyPackager.git
    cd PyPackager
    ```
 
