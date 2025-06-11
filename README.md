@@ -1,6 +1,6 @@
 # PyPackager
 
-![dev-starter Chat Demo](![image](https://github.com/user-attachments/assets/972adf72-5dad-4299-8d0a-a3f826623724))
+![dev-starter Chat Demo](https://raw.githubusercontent.com/LMLK-seal/PyPackager/refs/heads/main/img.jpg)
 
 **A Modern GUI Frontend for PyInstaller**
 
