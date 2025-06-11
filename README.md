@@ -1,4 +1,4 @@
-# PyPackager
+# PyPackager - Your python to EXE converter.
 
 ![dev-starter Chat Demo](https://raw.githubusercontent.com/LMLK-seal/PyPackager/refs/heads/main/img.jpg)
 
