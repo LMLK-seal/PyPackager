@@ -74,9 +74,6 @@ PyPackager is a user-friendly graphical interface that simplifies the process of
 | **Custom Icon** | Sets a custom icon for the executable | `--icon` |
 | **Data Files** | Includes additional files in the package | `--add-data` |
 
-## Screenshots
-
-*Add screenshots of your application here*
 
 ## Technical Details
 
