@@ -93,7 +93,7 @@ PyPackager/
 
 ## Requirements
 
-Create a `requirements.txt` file with:
+Download the `requirements.txt` file:
 ```
 customtkinter>=5.0.0
 pyinstaller>=5.0.0
@@ -102,14 +102,6 @@ pyinstaller>=5.0.0
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-### Development Setup
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Known Issues
 
@@ -127,7 +119,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
@@ -135,14 +127,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [CustomTkinter](https://customtkinter.tomschimansky.com/) - Modern GUI framework for Python
 - Python community for continuous support and inspiration
 
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/PyPackager/issues) section
-2. Create a new issue with detailed information about your problem
-3. Include your Python version, OS, and error logs
-
----
 
 **Made with ❤️ for the Python community**
